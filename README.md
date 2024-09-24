@@ -1,3 +1,3 @@
 # VOSS LABEEE
 
-https://voss-labeee.streamlit.app
+https://voss-labeee.streamlit.app/
