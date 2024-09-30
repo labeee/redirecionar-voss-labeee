@@ -3,7 +3,7 @@ from configurate import *
 create_top(big_text_title=project, use_line=True, use_image=False, img_url=r'static/voss-01.png')
 
 st.markdown("""
-Esta página tem como único intúito redirecionar os usuários aos webapps oficiais publicados.
+Esta página tem como único intuito redirecionar os usuários aos webapps oficiais publicados.
             
 Acesse-os via os links disponíveis:
             
